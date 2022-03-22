@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package vippreferred-mm
+ * @package vip-mm
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package vippreferred-mm
+ * @package vip-mm
  */
 class RoboFile extends \Robo\Tasks
 {
