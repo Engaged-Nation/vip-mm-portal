@@ -6,14 +6,14 @@ The March Mania Campaign Reach product.
 
 ###Login to the Front End
 ```
-URL: vippreferred-mm.localhost.en/
+URL: vip-mm.localhost.en/
 UN: test@test.com
 PW: testing
 ```
 
 ###Login to the Admin
 ```
-URL: vippreferred-mm-portal.localhost.en/administrator
+URL: vip-mm-portal.localhost.en/administrator
 UN: testing
 PW: testing
 ```
